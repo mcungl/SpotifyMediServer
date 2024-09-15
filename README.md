@@ -1,6 +1,7 @@
-Create app on spotify developer dashboard, where you the client id and setup redirect url. (developer.spotify.com/dashboard)
+Create an app on `developer.spotify.com/dashboard` and add these values to local.properties
 
-Add to local.properties
+```CLIENT_ID="client id"```
 
-CLIENT_ID="client id"
-REDIRECT_URL="redirect url"
+```REDIRECT_URL="redirect url"```
+
+
