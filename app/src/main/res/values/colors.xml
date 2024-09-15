@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error">#df4141</color>
+    <color name="ok">#41df41</color>
+</resources>
